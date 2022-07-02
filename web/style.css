@@ -1,0 +1,35 @@
+table{
+    width: 40%;
+    border: 5px solid black;
+    
+}
+td,th{
+    width:20%;
+    text-align: center;
+     padding: 0.5rem;
+}
+
+
+.add{
+   float:left; 
+   background-color: aquamarine;
+   margin-left: 25px;
+   
+}
+
+.edit{
+    float: right;
+    background-color: aquamarine;
+    width:190px;   
+   margin-right: 500px; 
+        
+}
+.manage{
+    float: left;
+    width: 600px;
+    margin-left: 20px;
+    background-color: skyblue;
+}
+header {
+    text-align: center;
+}
